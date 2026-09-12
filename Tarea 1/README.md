@@ -3,7 +3,10 @@
 ## 1. Información del sistema
 - **Nombre del sistema:** Nova Cinemas
 - **Dirección:** [https://www.novacinemas.cr](https://www.novacinemas.cr)
-- **Logo:** ![Logo Nova Cinemas](https://www.novacinemas.cr/wp-content/themes/novacinema_theme/img/logo.svg)
+- **Logo:**
+<p align="center">
+  <img src="https://www.novacinemas.cr/wp-content/themes/novacinema_theme/img/logo.svg" alt="Logo Nova Cinemas" width="200">
+</p>
 
 ## 2. Propósito del sistema
 ### ¿Qué problema resuelve?
