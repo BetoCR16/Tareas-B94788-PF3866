@@ -180,7 +180,8 @@ Cada propuesta indica el problema observado, la mejora sugerida y la heurística
   - Mantener el mapa plano como vista principal; la perspectiva es una ayuda opcional y no un paso obligatorio de la compra.
 - **Referencia visual:** concepto de una aplicación de cine con una funcionalidad similar, que sirvió de inspiración para esta propuesta. No es un diseño de Nova Cinemas. Haga clic en la imagen para ver el video.
 
-  [![Referencia: mapa de asientos y vista desde el asiento seleccionado](assets/MAP-04-referencia-vista-asiento.png)](assets/MAP-04-referencia-vista-asiento.mp4)
+  [![Referencia: mapa de asientos y vista desde el asiento seleccionado]](
+https://github.com/user-attachments/assets/7448a27d-4430-4d9d-bbbb-e221b314cc4c)
 
   *Fuente: publicación de Ramin Nasibov ([@RaminNasibov](https://x.com/RaminNasibov)) en X: [https://x.com/RaminNasibov/status/2119378104892211287](https://x.com/RaminNasibov/status/2119378104892211287). Consultado el 13/11/2026.*
 
