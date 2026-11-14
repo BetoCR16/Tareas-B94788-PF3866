@@ -4,6 +4,11 @@ Se presentan propuestas de mejora de **interfaz (UI)** y **experiencia de usuari
 
 Cada propuesta indica el problema observado, la mejora sugerida y la heurística de usabilidad que la respalda (Nielsen).
 
+> [!TIP]
+> **Índice de ejemplos interactivos:** [ejemplos/index.html](ejemplos/index.html)
+>
+> Algunas propuestas incluyen un prototipo en HTML. El índice reúne todos esos ejemplos (UX-CAR-02, UX-CAR-04 y UX-MAP-02) en una sola página.
+
 *Apoyo con la herramienta de IA: Claude Opus 5.5*
 
 ---
